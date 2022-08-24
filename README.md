@@ -1,6 +1,6 @@
 # Spotify-clone
 
-A simple Spotify clone (music player) using HTML, CSS and JavaScript. Used an attractive UI accompained with basic features like play,pause and previous,next buttons.
+A simple Spotify clone (music player) using HTML, CSS and JavaScript. Used an attractive UI accompanied with basic features like play,pause and previous,next buttons.
 
 
 
